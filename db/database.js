@@ -1,9 +1,9 @@
 import { DataAPIClient } from "@datastax/astra-db-ts";
 
 const token =
-  "AstraCS:TMvjPIjEkCcXyeNPcXszAzdT:b043760811149418639b724cf9c3754b72b428df1de9c783238b75162d1c5dc2";
+  "AstraCS:DhFGHZHgCnpBMGkpictpfKbz:9d220cc2fddafec79c34422fd696ad0a0e277b2366e3ece1af9a1b3cc38b39c0";
 const url =
-  "https://2a1fa4bc-60f8-45da-bbf4-56b65524e40b-us-east1.apps.astra.datastax.com";
+  "https://77b8ef2b-6a82-4aa9-aa04-8039463a6820-us-east-2.apps.astra.datastax.com";
 
 const client = new DataAPIClient(token);
 
